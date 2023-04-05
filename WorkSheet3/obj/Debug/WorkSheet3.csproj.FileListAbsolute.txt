@@ -1,0 +1,11 @@
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\bin\Debug\WorkSheet3.exe.config
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\bin\Debug\WorkSheet3.exe
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\bin\Debug\WorkSheet3.pdb
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.csproj.AssemblyReference.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.csproj.SuggestedBindingRedirects.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.Form1.resources
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.Properties.Resources.resources
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.csproj.GenerateResource.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.csproj.CoreCompileInputs.cache
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.exe
+C:\Users\abcdv\OneDrive\Desktop\c#projict\WorkSheet3\obj\Debug\WorkSheet3.pdb
